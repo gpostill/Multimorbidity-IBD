@@ -471,11 +471,11 @@ print(logloss)
         ################################
 
 #Identifying the coefficients and corresponding feature names (column names)
-coeffficients = retrained_LR_model.coef_[0]
+coefficients = retrained_LR_model.coef_[0]
 feature_names = X_test.columns 
 
 #Creating a sorted DF of features coefficients 
-feature_imp_LR = pd.DataFrame({'Feature':feature_names, 'Coefficient': coeffficients})
+feature_imp_LR = pd.DataFrame({'Feature':feature_names, 'Coefficient': coefficients})
 
 #Adding another column of absolute coefficient & sorting on this (magnitude of strength with predicting prem. mortality)
 feature_imp_LR['Absolute Coefficient'] = feature_imp_LR['Coefficient'].abs()
