@@ -8,11 +8,16 @@ The project is divided into two sub-projects:
 
 **Files pertaining to project 1 (predicting premature death):**
 [Files to be added]
-- Task 1 (Predicting premature mortality from all conditions)
-- Task 2 (Predicting premature mortality from conditions developed before 60 years)
-- Task 3 (Predicting premature mortality from conditions developed before 60 years using age of conditions) 
+- Task 1 (Predicting premature mortality from all conditions): PredictiveTask1(Oct2024).py
+- Task 2 (Predicting premature mortality from conditions developed before 60 years): PredictiveTask2(Oct2024).py
+- Task 3 (Predicting premature mortality from conditions developed before 60 years using age of conditions): PredictiveTask3(Oct2024).py
+- Cohort description: M1 Descritive Table.py
 
 **Files pertaining to project 2 (multimorbidity clusters):**
-[Files to be added]
+- Cohort Description: M1 Descritive Table.py
+- Accumulation of Chronic Conditions Figure: CummulativeConditions_Figure.py
+- Cluster Derivation: Clustering_Age_Condition(July2024).py
+- Cluster Validation: CC_Validation(Sep2024).py
+
 
 The findings from this project will contribute to a deeper understanding of how multimorbidity affects individuals with IBD and help inform strategies for improving long-term health outcomes and care.
