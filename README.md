@@ -7,7 +7,6 @@ The project is divided into two sub-projects:
   2. **Identifying Clusters of Chronic Conditions among those with IBD:** The second sub-project focuses on identifying clusters of non-IBD chronic conditions that commonly co-occur in individuals with IBD. This analysis aims to reveal patterns of multimorbidity that may influence health outcomes and healthcare needs. Our approach is unique in that we encode chronology of condition accumulation into the clusters ensuring that our clusters reflect not just what conditions occur together but how they occur. 
 
 **Files pertaining to project 1 (predicting premature death):**
-[Files to be added]
 - Task 1 (Predicting premature mortality from all conditions): PredictiveTask1(Oct2024).py
 - Task 2 (Predicting premature mortality from conditions developed before 60 years): PredictiveTask2(Oct2024).py
 - Task 3 (Predicting premature mortality from conditions developed before 60 years using age of conditions): PredictiveTask3(Oct2024).py
